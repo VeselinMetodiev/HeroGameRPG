@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\DemoOne\RPGHeroGame\obj\Debug\netcoreapp3.1\RPGHeroGame.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DemoOne\RPGHeroGame\obj\Debug\netcoreapp3.1\RPGHeroGame.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DemoOne\RPGHeroGame\obj\Debug\netcoreapp3.1\RPGHeroGame.AssemblyInfo.cs
+C:\Users\user\source\repos\DemoOne\RPGHeroGame\obj\Debug\netcoreapp3.1\RPGHeroGame.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DemoOne\RPGHeroGame\bin\Debug\netcoreapp3.1\RPGHeroGame.exe
+C:\Users\user\source\repos\DemoOne\RPGHeroGame\bin\Debug\netcoreapp3.1\RPGHeroGame.deps.json
+C:\Users\user\source\repos\DemoOne\RPGHeroGame\bin\Debug\netcoreapp3.1\RPGHeroGame.runtimeconfig.json
+C:\Users\user\source\repos\DemoOne\RPGHeroGame\bin\Debug\netcoreapp3.1\RPGHeroGame.runtimeconfig.dev.json
+C:\Users\user\source\repos\DemoOne\RPGHeroGame\bin\Debug\netcoreapp3.1\RPGHeroGame.dll
+C:\Users\user\source\repos\DemoOne\RPGHeroGame\bin\Debug\netcoreapp3.1\RPGHeroGame.pdb
+C:\Users\user\source\repos\DemoOne\RPGHeroGame\obj\Debug\netcoreapp3.1\RPGHeroGame.dll
+C:\Users\user\source\repos\DemoOne\RPGHeroGame\obj\Debug\netcoreapp3.1\RPGHeroGame.pdb
+C:\Users\user\source\repos\DemoOne\RPGHeroGame\obj\Debug\netcoreapp3.1\RPGHeroGame.genruntimeconfig.cache
